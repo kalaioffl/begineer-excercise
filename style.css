@@ -1,0 +1,62 @@
+body{
+	 overflow-x:  hidden;
+}
+.topbar{
+	background-color: #2E2E2E;
+	color: #F2F5A9;
+	text-align: center;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+img{
+ 
+width: 50%;
+height: 130px;
+}
+.secondbar{
+	position: absolute;
+	left: 50%;
+	top: 10.3%;
+	width: 98.7%;
+    height: 150px;
+}
+.thirdbar ul{
+	list-style: none;
+	background-color: #2E2E2E;
+	color: #F2F5A9;
+	position: absolute;
+	top: 21%;
+	width: 95.6%;
+}
+.thirdbar ul li {
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.slidebar ul {
+	list-style-type: square;
+	font-size: 18px;
+}
+h2{
+	color: #0A02FE;
+}
+
+.bluebar{
+	text-align: center;
+}
+.startbar{
+	width: 30%;
+	height: 30%;
+}
+.stopbar{
+	width: 30%;
+	height: 30%;
+}
+footer{
+	background-color: #2E2E2E;
+	color: #F2F5A9;
+	text-align: center;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	}
